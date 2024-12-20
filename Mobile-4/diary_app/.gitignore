@@ -1,0 +1,74 @@
+# Fichiers et dossiers générés par Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# Fichiers spécifiques à VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcworkspace/
+ios/DerivedData/
+*.xcuserstate
+
+# Android
+android/.gradle/
+android/app/*.keystore
+android/app/google-services.json
+android/key.properties
+android/local.properties
+
+# Firebase
+.firebase/
+firebase-debug.log
+.firebaserc
+
+# Secrets et fichiers sensibles
+*.key
+*.jks
+*.p12
+*.pem
+*.crt
+*.csr
+
+# Configurations spécifiques à l'utilisateur
+*.iml
+*.log
+*.swp
+*.lock
+*.tmp
+*.orig
+*.bak
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# JetBrains IDE files
+.idea/workspace.xml
+.idea/libraries
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/assetWizardSettings.xml
+
+# Flutter generated file
+.flutter-plugins
+.flutter-plugins-dependencies

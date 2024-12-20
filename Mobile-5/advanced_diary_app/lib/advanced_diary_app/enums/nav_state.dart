@@ -1,0 +1,4 @@
+enum NavState {
+  profile,
+  calendar,
+}
